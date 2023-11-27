@@ -1,0 +1,6 @@
+pip install findspark
+pip install pyspark
+pip install mysql.connector
+pip install pandas
+pip install numpy 
+pip install os
